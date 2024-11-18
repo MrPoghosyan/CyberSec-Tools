@@ -36,9 +36,12 @@ To start, clone the repository:
 │   │   ├── include/        # Header files
 │   │   └── README.md       # Project-specific README
 │   └── (Other C++ Projects)
-├── Python-Projects/ # Not dir...
-│   ├── Log-Analysis/
+├── Python-Projects/ 
+│   ├── Log-Analysis/ # Not dir...
 │   │   ├── main.py         # Main Python script
+│   │   └── README.md       # Project-specific README
+│   ├── GeneraciPassword/
+│   │   ├── app_v1_or_v2.py # Main Python script
 │   │   └── README.md       # Project-specific README
 │   └── (Other Python Projects)
 └──----------------------------------------------------
