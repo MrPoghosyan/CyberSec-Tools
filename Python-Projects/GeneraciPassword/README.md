@@ -9,11 +9,6 @@ This project demonstrates the evolution of password storage and management:
 - **V1:** Simple signup and login with plain text password storage.
 - **V2:** Improved signup and login with password hashing.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-
 ## Install dependencies:
     pip install flask
 
